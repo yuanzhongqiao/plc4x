@@ -29,19 +29,19 @@
 <h2 tabindex="-1" dir="auto"><a id="user-content-about-apache-plc4x" class="anchor" aria-hidden="true" tabindex="-1" href="#about-apache-plc4x"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于阿帕奇 PLC4X</font></font></h2>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache PLC4X 致力于创建一组库，用于以统一的方式与工业级可编程逻辑控制器 (PLC) 进行通信。</font><font style="vertical-align: inherit;">我们计划将库用于：</font></font></p>
 <ol dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">爪哇</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GO</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C（未准备好使用）</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python（尚未准备好使用）</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C# (.Net)（尚未准备好使用 - 已放弃）</font></font></li>
 </ol>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PLC4X 还与其他 Apache 项目集成，例如：</font></font></p>
 <ul dir="auto">
-<li><a href="https://calcite.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇方解石</font></font></a></li>
-<li><a href="https://camel.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇骆驼</font></font></a></li>
+<li><a href="https://calcite.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache calcite</font></font></a></li>
+<li><a href="https://camel.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache camel</font></font></a></li>
 <li><a href="https://kafka.apache.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache Kafka 连接</font></font></a></li>
-<li><a href="https://karaf.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇·卡拉夫</font></font></a></li>
-<li><a href="https://nifi.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇NiFi</font></font></a></li>
+<li><a href="https://karaf.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache·卡拉夫</font></font></a></li>
+<li><a href="https://nifi.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache NiFi</font></font></a></li>
 </ul>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并带来独立（Java）实用程序，例如：</font></font></p>
 <ul dir="auto">
